@@ -24,11 +24,6 @@
 
 <br />
 
-</a>
-
-### ![Discord](https://img.shields.io/discord/730537554977357865?style=for-the-badge&color=black&label=Discord&logo=discord)
-
-
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=BenWomble.BenWomble)
 
 I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking and Cybersecurity, Computer Science with a minor in Information Systems 🎓 from Liberty University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor anyone willing to learn and branch out to new adventures 👨🏻‍💻. I'm currently into Java, Python, and Program Development and working on my Data Structures and Algorithms 🤓.
@@ -46,3 +41,5 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 ### Show some ❤️ by starring some of the repositories!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BenWomble&show_icons=true&hide_border=true)
+
+### ![Discord](https://img.shields.io/discord/730537554977357865?style=for-the-badge&color=black&label=Discord&logo=discord)
