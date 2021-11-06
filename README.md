@@ -26,7 +26,7 @@
 
 </a>
 
-### ![Discord](https://img.shields.io/discord/730537554977357865?color=black&label=Discord&logo=discord)
+### ![Discord](https://img.shields.io/discord/730537554977357865?style=for-the-badge&color=black&label=Discord&logo=discord)
 
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=BenWomble.BenWomble)
