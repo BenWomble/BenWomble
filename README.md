@@ -64,10 +64,12 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 <br>
 
+
+
 ### Join the community discord:
 
 <br>
 
-### ![Discord](https://img.shields.io/discord/730537554977357865?style=for-the-badge&color=black&label=Discord&logo=discord)
+![Discord](https://img.shields.io/discord/730537554977357865?style=for-the-badge&color=black&label=Discord&logo=discord)
 
 <br>
