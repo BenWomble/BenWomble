@@ -28,7 +28,7 @@
 
 <br>
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=BenWomble.BenWomble)
+## Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=BenWomble.BenWomble)
 
 <br>
 
@@ -36,7 +36,7 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 <br>
 
-### More about me...
+## More about me...
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -52,7 +52,7 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 <br>
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 <a href="https://github.com/BenWomble">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=BenWomble&show_icons=true" alt="Ben Womble's GitHub Stats" width="650px" />
@@ -60,7 +60,7 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1223334707&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1223334707&redirect=true)
 
-### Join the community discord:
+## Join the community discord:
 
 <br>
 
