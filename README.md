@@ -38,6 +38,8 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 ### More about me...
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 <br>
 
 - 🔭 I’m currently working on Node.js, React, Java, Python, Visual Basic, etc 💻.
@@ -47,8 +49,6 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, MySQL, Git, Docker, Linux, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Hire [me](mailto:womble.benjamin@gmail.com?Subject=Hello%20Ben) 👨‍💻.
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <br>
 
