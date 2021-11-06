@@ -1,15 +1,15 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/">
+<a href="https://twitter.com/RealBenWomble/">
   <img align="left" alt="Ben's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/benjamin-womble/">
   <img align="left" alt="Ben's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/BenWomble">
+<a href="https://github.com/BenWomble/">
   <img align="left" alt="Ben's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/BenWomble">
+<a href="https://t.me/BenWomble/">
   <img align="left" alt="Ben's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/wombleben/">
@@ -33,7 +33,7 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi Uni
 - 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
-- 📫 How to reach me: pavangandhi100@gmail.com | [LinkedIn](https://linkedin.com/in/iampavangandhi) | [Twitter](https://twitter.com/iampavangandhi) | [Instagram](https://instagram.com/iampavangandhi) | [Portfolio](https://BenWomble.github.io/)
+- 📫 How to reach me: womble.benjamin@gmail.com | [LinkedIn](https://linkedin.com/in/benjamin-womble) | [Twitter](https://twitter.com/RealBenWomble) | [Instagram](https://instagram.com/wombleben) | [Portfolio](https://BenWomble.github.io/)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:womble.benjamin@gmail.com?Subject=Hello%20Ben) 👨‍💻.
