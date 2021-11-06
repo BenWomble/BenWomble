@@ -26,17 +26,17 @@
 
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=BenWomble.BenWomble)
 
-I'm a final student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking and Cybersecurity, Computer Science with a minor in Information Systems 🎓 from Liberty University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor anyone willing to learn and branch out to new adventures 👨🏻‍💻. I'm currently into Java, Python, and Program Development and working on my Data Structures and Algorithms 🤓.
 
 ### More about me...
 
-- 🔭 I’m currently working on Node.js, Express.js, React, Graphql, MongoDB, etc 💻.
+- 🔭 I’m currently working on Node.js, React, Java, Python, Visual Basic, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
-- 👯 I’m looking to collaborate on any Open Source Project involving Javascript / MERN Stack.
+- 👯 I’m looking to collaborate on any Open Source Project involving Java / Python Stack.
 - 📫 How to reach me: womble.benjamin@gmail.com | [LinkedIn](https://linkedin.com/in/benjamin-womble) | [Twitter](https://twitter.com/RealBenWomble) | [Instagram](https://instagram.com/wombleben) | [Portfolio](https://BenWomble.github.io/)
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
+- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, MySQL, Git, Docker, Linux, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript 🤣. Hire [me](mailto:womble.benjamin@gmail.com?Subject=Hello%20Ben) 👨‍💻.
+- ⚡ Hire [me](mailto:womble.benjamin@gmail.com?Subject=Hello%20Ben) 👨‍💻.
 
 ### Show some ❤️ by starring some of the repositories!
 
