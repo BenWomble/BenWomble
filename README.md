@@ -60,8 +60,8 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=BenWomble&show_icons=true" alt="Ben Womble's GitHub Stats" />
 </a>
 
-### |
-### |
+### ______
+### 
 
 ### Join the community discord:
 
