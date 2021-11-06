@@ -58,12 +58,6 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 [<img align="left" src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/1223334707?si=6adf7c34f52447d5)
 
-<br>
-
-### Show some ❤️ by starring some of the repositories!
-
-<br>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=BenWomble&show_icons=true&hide_border=true)
 
 <br>
