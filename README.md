@@ -54,7 +54,7 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 ### Spotify Playing 🎧
 
-[<img align="left" src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/1223334707?si=6adf7c34f52447d5)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1223334707&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1223334707&redirect=true)
 
 <a href="https://github.com/BenWomble">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=BenWomble&show_icons=true" alt="Ben Womble's GitHub Stats" />
