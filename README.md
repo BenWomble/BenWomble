@@ -45,5 +45,3 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 ### Join the community discord:
 
 ### ![Discord](https://img.shields.io/discord/730537554977357865?style=for-the-badge&color=black&label=Discord&logo=discord)
-
-###
