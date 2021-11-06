@@ -28,7 +28,7 @@
 
 <br>
 
-## Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=BenWomble.BenWomble)
+## Glad to see you here! ![](https://visitor-badge.glitch.me/badge?page_id=BenWomble.BenWomble)
 
 <br>
 
