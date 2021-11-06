@@ -48,6 +48,8 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Hire [me](mailto:womble.benjamin@gmail.com?Subject=Hello%20Ben) 👨‍💻.
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 <br>
 
 ### Spotify Playing 🎧
