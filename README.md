@@ -10,7 +10,7 @@
   <img align="left" alt="Ben's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/BenWomble/">
-  <img align="left" alt="Ben's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Ben's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.21.1/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/wombleben/">
   <img align="left" alt="Ben's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
