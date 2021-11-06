@@ -62,7 +62,7 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 ###  
 ###  
-### _________________________
+### _____________________________________________
 
 ### Join the community discord:
 
