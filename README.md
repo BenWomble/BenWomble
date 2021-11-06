@@ -1,4 +1,4 @@
-## print("Hello, World!") <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# print("Hello, World!") <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <br>
 
@@ -52,7 +52,7 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 <br>
 
-# Spotify Playing 🎧
+## Spotify Playing 🎧
 
 <a href="https://github.com/BenWomble">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=BenWomble&show_icons=true" alt="Ben Womble's GitHub Stats" width="450px" />
