@@ -64,6 +64,8 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 <br>
 
-<img src="https://discordapp.com/api/guilds/730537554977357865/widget.png?style=banner3" alt="Discord Banner 3"/>
+<a href="https://discord.com/api/guilds/730537554977357865/">
+  <img src="https://discordapp.com/api/guilds/730537554977357865/widget.png?style=banner3" alt="Discord Banner 3"/>
+</a>
 
 <br>
