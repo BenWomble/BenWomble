@@ -64,6 +64,6 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 
 <br>
 
-![Discord Banner 4](https://discordapp.com/api/guilds/730537554977357865/widget.png?style=banner4)
+![Discord Banner 3](https://discordapp.com/api/guilds/730537554977357865/widget.png?style=banner3)
 
 <br>
