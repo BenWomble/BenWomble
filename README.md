@@ -45,7 +45,7 @@ I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking
 - 🔭 I’m currently working on Node.js, React, Java, Python, Visual Basic, etc 💻.
 - 🌱 I’m currently learning Full Stack Development 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving Java / Python Stack.
-- 📫 How to reach me: womble.benjamin@gmail.com | [LinkedIn](https://linkedin.com/in/benjamin-womble) | [Twitter](https://twitter.com/RealBenWomble) | [Instagram](https://instagram.com/wombleben) | [Portfolio](https://BenWomble.github.io/)
+- 📫 How to reach me: womble.benjamin@gmail.com | [LinkedIn](https://linkedin.com/in/benwomble) | [Twitter](https://twitter.com/RealBenWomble) | [Instagram](https://instagram.com/wombleben) | [Portfolio](https://BenWomble.github.io/)
 - 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, MySQL, Git, Docker, Linux, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - ⚡ Hire [me](mailto:womble.benjamin@gmail.com?Subject=Hello%20Ben) 👨‍💻.
