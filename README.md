@@ -5,7 +5,7 @@
 <a href="https://twitter.com/RealBenWomble/">
   <img align="left" color="white" alt="Ben's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/benjamin-womble/">
+<a href="https://linkedin.com/in/benwomble/">
   <img align="left" alt="Ben's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/BenWomble/">
