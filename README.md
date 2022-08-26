@@ -32,7 +32,7 @@
 
 <br>
 
-I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking and Cybersecurity, Computer Science with a minor in Information Systems 🎓 from Liberty University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor anyone willing to learn and branch out to new adventures 👨🏻‍💻. I'm currently into Java, Python, and Program Development and working on my Data Structures and Algorithms 🤓.
+I'm a undergraduate student pursuing a Bachelors's of Science in Data Networking and Cybersecurity, Computer Science with a minor in Information Systems 🎓 from Liberty University 🏛. I love to learn and work across many different domains as well as explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor anyone willing to learn and branch out to new adventures 👨🏻‍💻. I'm currently into Java, Python, and Infrastructure Development.
 
 <br>
 
